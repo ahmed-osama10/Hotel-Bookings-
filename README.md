@@ -1,4 +1,4 @@
-# Hotel-Bookings-
+# Hotel-Bookings
 
 Case Study: Hotel Bookings
 
